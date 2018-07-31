@@ -1,0 +1,1 @@
+This is my first draft of the "About Me" page of my website. I've used a number of different styling elements, but want to refine the design in future versions. For now, here is a good idea of where I'm starting from!
