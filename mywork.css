@@ -1,0 +1,69 @@
+
+body{
+    background-image: url(https://media.gettyimages.com/photos/white-marble-patterned-texture-background-picture-id511661914?b=1&k=6&m=511661914&s=612x612&w=0&h=Qjm1wU6xViG-IS-5D6sRPqxEKqqkzrWyWEupKOLr-H4=);
+}
+
+.topnav {
+    background-color: #4E5F8F;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #161B2C;
+    color: white;
+}
+
+.topnav a.active {
+    color: white;
+    background-color: #333F5F;
+}
+
+h1{
+    font-size: 80px;
+    padding: 16px;
+    text-align: center;
+    color: #333F5F;
+}
+
+h2{
+    font-size: 40px;
+    padding: 8px;
+    margin: 16px;
+    text-align: left;
+    color: #333F5F;
+}
+
+.row1{
+  background-color: #333F5F;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 16px;
+  flex: 25%;
+}
+
+.row2{
+  background-color: #333F5F;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 16px;
+  flex: 25%;
+}
+
+img {
+  margin: 10px;
+  width: 20%;
+  height: 20%;
+  float: left;
+  border: solid white;
+  display: inline-block;
+  opacity: 1;
+}
