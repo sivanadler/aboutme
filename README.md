@@ -1,1 +1,2 @@
-This is my first draft of the "About Me" page of my website. I've used a number of different styling elements, but want to refine the design in future versions. For now, here is a good idea of where I'm starting from!
+This is my website with added image galleries onto the "My Work" tab. I was having a hard time getting the images to fit well into a gallery, given their different sizes, but I still have some work to do on that.
+
